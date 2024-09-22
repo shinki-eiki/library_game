@@ -1,0 +1,68 @@
+[Hub]:2024/04/05 15:34:01.391041 hub.go:32: A new hub.
+[Hub]:2024/04/05 15:34:16.925622 hub.go:74: &{0xc000075050 0xc000146580 0xc0001102a0 0} client registered
+[Hub]:2024/04/05 15:35:16.741382 hub.go:86: Receive message:
+[Hub]:2024/04/05 15:35:16.743381 hub.go:88: 0 104
+[Hub]:2024/04/05 15:35:16.746381 hub.go:88: 1 101
+[Hub]:2024/04/05 15:35:16.747395 hub.go:88: 2 108
+[Hub]:2024/04/05 15:35:16.747395 hub.go:88: 3 108
+[Hub]:2024/04/05 15:35:16.747912 hub.go:88: 4 111
+[Hub]:2024/04/05 15:38:54.770852 hub.go:33: A new hub.
+[Hub]:2024/04/05 15:38:55.441178 hub.go:75: &{0xc000024090 0xc000242000 0xc000208120 0} client registered
+[Hub]:2024/04/05 15:39:03.018400 hub.go:87: Receive message:
+[Hub]:2024/04/05 15:48:54.434033 hub.go:33: A new hub.
+[Hub]:2024/04/05 15:48:59.914440 hub.go:75: reimu client registered
+[Hub]:2024/04/05 15:49:20.635832 hub.go:87: Receive message:
+[Hub]:2024/04/05 17:42:44.076029 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:42:47.552317 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:42:59.568521 hub.go:81: [1]marisa client registered
+[Hub]:2024/04/05 17:43:07.935059 hub.go:95: Receive message:
+[Hub]:2024/04/05 17:43:33.608654 hub.go:95: Receive message:
+[Hub]:2024/04/05 17:44:15.417023 hub.go:95: Receive message:
+[Hub]:2024/04/05 17:46:41.329277 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:46:42.927378 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:46:52.198101 hub.go:81: [1]marisa client registered
+[Hub]:2024/04/05 17:47:33.749865 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:47:38.122127 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:48:02.173550 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:48:03.905766 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:49:13.879419 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:49:17.507172 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:49:46.405285 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:49:48.709064 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:51:38.247310 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:51:43.599964 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:52:25.359822 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:52:28.601740 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 17:52:33.014116 hub.go:96: Receive message from [0]reimu:
+[Hub]:2024/04/05 17:53:14.317463 hub.go:33: A new hub.
+[Hub]:2024/04/05 17:53:16.493832 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:05:37.286245 hub.go:33: A new hub.
+[Hub]:2024/04/05 18:05:39.619439 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:05:56.437761 hub.go:81: [1]marisa client registered
+[Hub]:2024/04/05 18:09:45.588824 hub.go:33: A new hub.
+[Hub]:2024/04/05 18:09:46.751477 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:10:48.740511 hub.go:33: A new hub.
+[Hub]:2024/04/05 18:10:50.141746 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:10:52.018450 hub.go:89: [0]reimu unregistered
+[Hub]:2024/04/05 18:11:41.541294 hub.go:33: A new hub.
+[Hub]:2024/04/05 18:11:44.157180 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:13:00.355085 hub.go:33: A new hub.
+[Hub]:2024/04/05 18:13:00.829221 hub.go:81: [0]reimu client registered
+[Hub]:2024/04/05 18:13:03.566437 hub.go:96: Receive message from [0]reimu:
+[Hub]:2024/04/05 18:13:10.474432 hub.go:81: [1]marisa client registered
+[Hub]:2024/04/05 18:13:13.557507 hub.go:96: Receive message from [1]marisa:
+[Hub]:2024/04/05 20:05:01.763540 hub.go:33: A new hub.
+[Hub]:2024/04/05 20:05:04.196223 hub.go:90: [0]reimu client registered
+[Hub]:2024/04/05 20:05:16.884829 hub.go:106: Receive message from [0]reimu:
+[Hub]:2024/04/05 20:05:41.074476 hub.go:90: [1]marisa client registered
+[Hub]:2024/04/05 20:05:54.578543 hub.go:106: Receive message from [1]marisa:
+[Hub]:2024/04/05 20:06:51.348077 hub.go:106: Receive message from [0]reimu:
+[Hub]:2024/04/05 20:07:07.636795 hub.go:106: Receive message from [1]marisa:
+[Hub]:2024/04/05 20:07:59.379672 hub.go:76: [1]marisa unregistered
+[Hub]:2024/04/05 20:08:02.331945 hub.go:76: [0]reimu unregistered
+[Hub]:2024/04/05 20:08:02.677639 hub.go:90: [0]reimu client registered
+[Hub]:2024/04/05 20:08:57.874169 hub.go:106: Receive message from [0]reimu:
+[Hub]:2024/04/05 20:11:41.603930 hub.go:106: Receive message from [0]reimu:
+[Hub]:2024/04/05 20:12:18.209612 hub.go:33: A new hub.
+[Hub]:2024/04/05 20:12:26.677948 hub.go:90: [0]reimu client registered
+[Hub]:2024/04/05 20:12:33.162759 hub.go:102: Receive message from [0]reimu:
